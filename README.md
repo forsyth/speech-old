@@ -1,2 +1,2 @@
 # speech
-simple wrapper over text-to-speech service, currently AWS Polly
+Simple wrapper over text-to-speech service, previously Bing, currently AWS Polly.
